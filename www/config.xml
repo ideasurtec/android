@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="es.bmed.inicio" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>bmed</name>
+<widget id="es.bmed.dos" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>bmed-2</name>
     <description>
-        Primera app para bmed.
+        Segunda app para bmed.
     </description>
     <author email="general@ideasur.com" href="http://ideasur.com">
         IdeaSur Technology Team
